@@ -16,6 +16,10 @@ Person Inside Dome Tent on Cliff - Ali Arapoğlu
 
 https://www.pexels.com/photo/person-inside-dome-tent-on-cliff-2193527/
 
+river forest mountain landscape - Eddydsgn https://pixabay.com/vectors/river-forest-mountain-landscape-8286407/
+
+Topless Man in Black Shorts Dipping in Lake Water - Selman Arif Golbasi https://www.pexels.com/photo/topless-man-in-black-shorts-dipping-in-lake-water-13921904/
+
 
 
 
