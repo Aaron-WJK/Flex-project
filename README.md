@@ -20,12 +20,16 @@ The project aims to have a header, footer. It will have a main section subdivide
 	- a div with class 'hero' with text, an image and a button
 	- a div with class 'options' with four images and accompanying text.
 
+22/03 - 
+
+- finished initial attempt at html
+- created style.css and began adding styling. Reached hero element, see comment in document 
+
 To do: 
 
-- Add main child div element with class 'quote' containing two paragraphs
-- add main child div element with class 'action' with text and a sign up button
-- add footer element with text 
-- create css style document to begin adding flex boxes and customise text and background. 
+- Work out how to display hero element correctly 
+- move on to next element in stylign
+
 
 
 
