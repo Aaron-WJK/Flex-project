@@ -28,7 +28,12 @@ The project aims to have a header, footer. It will have a main section subdivide
 To do: 
 
 - Work out how to display hero element correctly 
-- move on to next element in stylign
+- move on to next element in styling
+
+25/03 - 
+
+- Finished aligning hero element correctly 
+- working on aligning adventures images into flex boxes with text wrapped underneath
 
 
 
