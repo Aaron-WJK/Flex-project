@@ -36,5 +36,21 @@ To do:
 - working on aligning adventures images into flex boxes with text wrapped underneath
 
 
+03/04
+
+- Aligned adventures images into flex boxes with text wrapped underneath as in design. Gaps between images are wider than in design but layout generally consistent with assignment guide. 
+- next task is to format the quote section 
+
+04/04 - 
+,
+Resolved issue with comment. Required adjusting margins in .adventure styling, adding a padding-bottom to adv-text styling, wdith 100% to adv-options.
+- added font and text editing to match assignment requirements 
+
+-Created styling rules for quote section split into parent element quote and child elements quotee1 and quotee2. Implemented flex boxes with collumn direction. Added manual margins to .quotee2 and padding to .quote to get flex box and content positioning correct. 
+
+- Created Action styling. Used margin, margin-right, margin-left, padding-left, padding-right to ensure correct alignment of flex boxes and content. Used a div to seperate H4 and paragraph from button. Used seperate class .action-button for button element. Used  padding-left and padding-right to get correct positioning. Implemented assignment font and border styles. 
+
+- Assignment complete, pushed to GIThub.
+
 
 
